@@ -89,4 +89,10 @@ body {
     font-size: 1.5rem;
     line-height: 2;
   }
+
+  .start-button{
+    width: 150px;
+    height: 30px;
+    font-size: 1rem;
+  }
 }
